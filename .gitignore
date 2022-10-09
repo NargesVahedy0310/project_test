@@ -1,6 +1,12 @@
 venv/
 .idea/
 media/
+files/
+categories/
+products/
 
 **/__pycache__/
 *.pyc
+
+db.sqlite3
+local_settings.py
